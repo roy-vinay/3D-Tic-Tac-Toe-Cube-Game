@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/3D-tic-tac-toe-cube-game.html" }
+  ]
+}
