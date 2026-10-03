@@ -3,6 +3,8 @@
 Tic-tac-toe played on a Rubik's Cube. Place your mark, then twist the cube, and only then is the
 board checked for a win. One twist can complete your line or break your opponent's.
 
+**Play it:** https://3-d-tic-tac-toe-cube-game.vercel.app
+
 ## Rules
 
 - Player 1 is X, player 2 is O.
