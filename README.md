@@ -5,6 +5,8 @@ board checked for a win. One twist can complete your line or break your opponent
 
 **Play it:** https://3-d-tic-tac-toe-cube-game.vercel.app
 
+![Title screen](docs/screenshot.png)
+
 ## Rules
 
 - Player 1 is X, player 2 is O.
